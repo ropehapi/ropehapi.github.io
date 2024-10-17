@@ -22,3 +22,11 @@ url = "https://twitter.com/ropehapi"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://youtube.com/@ropehapi"
+
+[social.params]
+icon = "brand-youtube"
