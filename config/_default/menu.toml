@@ -16,25 +16,17 @@ url = "https://github.com/ropehapi"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com/ropehapi"
-
-[social.params]
-icon = "brand-twitter"
-
-[[social]]
-identifier = "youtube"
-name = "Gaming Youtube channel"
-url = "https://youtube.com/@ropehapi"
+identifier = "coding-youtube"
+name = "Coding Youtube channel"
+url = "https://youtube.com/@ropehapiCoding"
 
 [social.params]
 icon = "brand-youtube"
 
 [[social]]
-identifier = "youtube"
-name = "Coding Youtube channel"
-url = "https://youtube.com/@ropehapiCoding"
+identifier = "gaming-youtube"
+name = "Gaming Youtube channel"
+url = "https://youtube.com/@ropehapi"
 
 [social.params]
 icon = "brand-youtube"
@@ -46,3 +38,11 @@ url = "https://twitch.tv/ropehapi"
 
 [social.params]
 icon = "brand-twitch"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/ropehapi"
+
+[social.params]
+icon = "brand-twitter"
