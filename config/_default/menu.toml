@@ -25,8 +25,24 @@ icon = "brand-twitter"
 
 [[social]]
 identifier = "youtube"
-name = "Youtube"
+name = "Gaming Youtube channel"
 url = "https://youtube.com/@ropehapi"
 
 [social.params]
 icon = "brand-youtube"
+
+[[social]]
+identifier = "youtube"
+name = "Coding Youtube channel"
+url = "https://youtube.com/@ropehapiCoding"
+
+[social.params]
+icon = "brand-youtube"
+
+[[social]]
+identifier = "twitch"
+name = "Twitch"
+url = "https://twitch.tv/ropehapi"
+
+[social.params]
+icon = "brand-twitch"
