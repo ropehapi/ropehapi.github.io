@@ -11,4 +11,4 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Sejam bem vindos ao primeiro post nessa porra. Tô sem paciência pra postar meus artigos tudo de uma vez pq passei mais de mês quebrando a cabeça pra publicar esse blog, mas assim que possível eu organizo os posts.
+Sejam bem vindos ao primeiro post nessa porra. Tô sem paciência pra postar meus artigos tudo de uma vez pq passei mais de mês quebrando a cabeça pra publicar esse blog, mas assim que possível eu organizo os posts
