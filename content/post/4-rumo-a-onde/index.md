@@ -34,12 +34,8 @@ Reclamar que não dá tempo de fazer tudo seria me rebaixar ao nível dos fracot
 
 Abaixo, para finalizar, seguem meus cinco sonhos, formulados ainda quando eu tinha menos de 15 anos — pra ter isso registrado em algum lugar fora das minhas conversas com as pessoas:
 
-    Fazer um mochilão
-
-    Aprender a surfar
-
-    Aprender a tocar violão
-
-    Fazer um salto de paraquedas
-
-    Ir pro Japão
+- Fazer um mochilão
+- Aprender a surfar
+- Aprender a tocar violão
+- Fazer um salto de paraquedas
+- Ir pro Japão
