@@ -1,7 +1,7 @@
 ---
 title: Rumo a onde? Um pouco de reflexão
 description: Tenho me pego pensando demais, refletindo demais, e isso tem sido bom. Porém, tem sido conflituoso. Não sei se estou no caminho certo, se estou fazendo o que eu quero ou se eu só caí na corrida dos ratos. Enquanto escrevia esse texto, acredito ter me colocado no eixo novamente.
-slug: rumno-a-onde
+slug: rumo-a-onde
 date: 2025-05-29 00:00:00+0000
 # image: cover.jpg
 categories:
