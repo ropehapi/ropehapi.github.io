@@ -16,17 +16,25 @@ url = "https://github.com/ropehapi"
 icon = "brand-github"
 
 [[social]]
-identifier = "coding-youtube"
-name = "Coding Youtube channel"
-url = "https://youtube.com/@ropehapiCoding"
+identifier = "gaming-youtube"
+name = "Gaming Youtube channel"
+url = "https://youtube.com/@ropehapi"
 
 [social.params]
 icon = "brand-youtube"
 
 [[social]]
-identifier = "gaming-youtube"
-name = "Gaming Youtube channel"
-url = "https://youtube.com/@ropehapi"
+identifier = "vlog-youtube"
+name = "Vlogs Youtube channel"
+url = "https://youtube.com/@ropehapiIrl"
+
+[social.params]
+icon = "brand-youtube"
+
+[[social]]
+identifier = "coding-youtube"
+name = "Coding Youtube channel"
+url = "https://youtube.com/@ropehapiCoding"
 
 [social.params]
 icon = "brand-youtube"

@@ -35,10 +35,13 @@ Muitas são as perguntas que eu posso receber ao falar sobre um ecossistema dess
 Abaixo, abordarei um pouco sobre o desenvolvimento de cada serviço individualmente. Começando pelos serviços de fato, e depois as ferramentas de apoio a esses serviços.
 
 ## O primogênito: password-vault
+Tendo o início de seu desenvolvimento em Outubro de 2024 e seu fim em Setembro de 2025 (acho que isso deixa claro que não teve um dedo sequer de IA nisso), o password vault foi o primeiro serviço desenvolvido para o ecossistema. Na verdade, quando ele foi concebido, ainda nem estava no meu planejamento criar as demais ferramentas. 
+
+A minha ideia era simples: Criar uma ferramenta extremamente leve e simples que me permitisse ter a soberania sobre todas as minhas credenciais, sem deixar meus dados sensíveis à mercê de qualquer plataforma na nuvem onde eu a deixasse.
 
 ## O segurança dessa festa: O IDP
 
-## O cara que cuida do meu dinheiro: O finance-manager
+## O meu tesoureiro: O finance-manager
 
 ## E como vamos usar tudo isso? Prazer, rphpctl
 
